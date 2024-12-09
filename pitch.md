@@ -101,6 +101,7 @@ Passionate software developers and renewable energy enthusiasts committed to Ken
 ## Contact
 
 **Email:** [Coming Soon]
+---
 **Website:** [Coming Soon]
 
 ## Call to Action
