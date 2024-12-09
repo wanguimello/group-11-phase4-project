@@ -1,6 +1,6 @@
 # RenewableConnect Kenya
 
-## Executive Summary
+## Summary
 
 RenewableConnect Kenya is a transformative web platform designed to revolutionize renewable energy engagement across Kenya by connecting communities, resources, and sustainable project opportunities.
 
@@ -71,7 +71,7 @@ A comprehensive web application that:
 
 ## Development Roadmap
 
-### Phase 1: MVP Launch
+### Phase 1: Core Setup Launch
 - Core platform development
 - Initial user acquisition
 - Regional pilot programs
@@ -79,22 +79,22 @@ A comprehensive web application that:
 ### Phase 2: Expansion
 - Advanced features
 - National partnership development
-- Gamification integration
+- Loyalty Rewards Integration
 
 ## Funding Requirements
 
-**Seed Funding:** $250,000
+**Seed Funding:** Kes 250,000
 - Platform development
 - Marketing
 - Operational costs
 
 ## Team
 
-Passionate technologists and renewable energy experts committed to Kenya's sustainable future.
+Passionate software developers and renewable energy experts committed to Kenya's sustainable future.
 
 ## Contact
 
-**Email:** hello@renewableconnectkenya.com
+**Email:** [Coming Soon]
 **Website:** [Coming Soon]
 
 ## Call to Action
