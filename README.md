@@ -1,5 +1,15 @@
 # 🌍⚡ RenewableConnect Kenya
 
+## 📋 Table of Contents
+
+| Section | Quick Links |
+|:--------|:------------|
+| 🌱 Overview | [About Us](#about-us) • [Our Mission](#about-us) |
+| 💻 Technical Details | [Tech Stack](#-tech-stack) • [Database Models](#-database-models--relationships) |
+| 🚀 Platform Features | [What We Offer](#-what-we-offer) • [Frontend Pages](#-frontend-pages) |
+| 🔍 Key Highlights | [Best Practices](#-best-practices) • [UI/UX Design](#-uiux-design) |
+| 📈 Future Vision | [Roadmap](#-future-roadmap) • [Conclusion](#-conclusion) |
+
 ## About Us
 
 Welcome to **RenewableConnect Kenya** – a platform that's here to help Kenyan communities connect with renewable energy solutions. As Kenya leads the way in Africa's green revolution, we believe it's time for residents, organizations, and stakeholders in areas like **Kiambu**, **Nakuru**, **Nairobi**, **Kisumu**, and more, to come together and make a real difference.
@@ -38,8 +48,6 @@ Renewable energy is all about teamwork. Whether you're from **Kiambu**, **Nakuru
 We believe in the power of information. That's why we've added interactive charts and maps to track renewable energy progress across Kenya. You'll be able to see how many people in your area are benefiting from renewable energy projects and watch the impact grow.
 
 ## 🛠️ Database Models & Relationships
-
-We've structured our database to make sure everything works smoothly:
 
 ### 1. User Model
 
