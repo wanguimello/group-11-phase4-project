@@ -77,16 +77,10 @@ A comprehensive web application that:
 - Regional pilot programs
 
 ### Phase 2: Expansion
-- Advanced features
-- National partnership development
+- Advanced features setup
 - Loyalty Rewards Integration
+- Core User - configuration development
 
-## Funding Requirements
-
-**Seed Funding:** Kes 250,000
-- Platform development
-- Marketing
-- Operational costs
 
 ## The Team
 
