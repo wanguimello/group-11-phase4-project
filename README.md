@@ -101,7 +101,7 @@ We’ve structured our database to make sure everything works smoothly:
 - **Local Partnerships:**  
    - We’re working to partner with local NGOs, government organizations, and businesses to expand the resources available to users in **Kiambu** and **Nakuru**.
 
-- **Gamification:**  
+- **Loyalty Rewards:**  
    - Imagine earning rewards for your contributions! Badges, points, and certificates are on the horizon to encourage more engagement.
 
 - **Real-Time Updates:**  
