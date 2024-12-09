@@ -88,9 +88,15 @@ A comprehensive web application that:
 - Marketing
 - Operational costs
 
-## Team
+## The Team
 
-Passionate software developers and renewable energy experts committed to Kenya's sustainable future.
+Passionate software developers and renewable energy enthusiasts committed to Kenya's sustainable future:
+
+- **Michael Akoko**
+- **Annah Wanjiru**
+- **Peter Mungai**
+- **Joyce Kimani**
+- **Rose Munene**
 
 ## Contact
 
