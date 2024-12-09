@@ -97,6 +97,7 @@ Passionate software developers and renewable energy enthusiasts committed to Ken
 **Email:** [Coming Soon]
 ---
 **Website:** [Coming Soon]
+---
 
 ## Call to Action
 
