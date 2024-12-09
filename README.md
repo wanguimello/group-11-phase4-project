@@ -117,4 +117,5 @@ We’ve structured our database to make sure everything works smoothly:
 
 Want to dive deeper? Explore the full project on GitHub:  
 [RenewableConnect Kenya GitHub](#)  
+
 The repo has all the code, setup instructions, and ways you can contribute. Let’s build a better future together! 🌿
