@@ -15,5 +15,5 @@
 | React Router Integration | Peter Mungai | Set up React Router and connect routes to backend APIs. |
 | Testing & Responsiveness | Rose Munene | Test frontend features for compatibility and responsiveness. |
 | **Integration Tasks** | Backend: Michael, Annah; Frontend: Rose, Joyce, Peter | - |
-| API Communication | Michael Akoko, Rose Munene | Backend: Ensure consistent API responses; Frontend: Integrate APIs into components. |
-| CRUD Integration | Annah Wanjiru, Joyce Kimani, Peter Mungai | Backend: Provide CRUD endpoints; Frontend: Implement and test CRUD functionality in UI. |
+| API Communication | Michael Akoko, Annah Wanjiru | Backend: Ensure consistent API responses; Frontend: Integrate APIs into components. |
+| CRUD Integration | Rose Munene, Joyce Kimani, Peter Mungai | Backend: Provide CRUD endpoints; Frontend: Implement and test CRUD functionality in UI. |
