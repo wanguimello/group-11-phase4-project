@@ -1,0 +1,66 @@
+/* src/components/NavBar.css */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #333;
+  color: #fff;
+  padding: 1rem;
+}
+
+.logo {
+  font-size: 1.5rem;
+}
+
+.nav-links {
+  display: flex;
+  list-style: none;
+}
+
+.nav-links li {
+  margin: 0 1rem;
+}
+
+.nav-links a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 1rem;
+}
+
+.nav-links a:hover,
+.nav-links a.active {
+  color: #f0db4f; /* Highlight color */
+}
+
+/* Responsive Toggle Menu */
+.menu-toggle {
+  display: none;
+  background: none;
+  color: #fff;
+  font-size: 1.5rem;
+  border: none;
+  cursor: pointer;
+}
+
+/* For mobile screens */
+@media (max-width: 768px) {
+  .menu-toggle {
+    display: block;
+  }
+
+  .nav-links {
+    display: none;
+    flex-direction: column;
+    background-color: #444;
+    width: 100%;
+  }
+
+  .nav-links.open {
+    display: flex;
+  }
+
+  .nav-links li {
+    text-align: center;
+    margin: 1rem 0;
+  }
+}

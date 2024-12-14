@@ -1,0 +1,40 @@
+// src/components/NavBar.js
+import React, { useState } from 'react';
+import { NavLink } from 'react-router-dom';
+import './NavBar.css'; // Create this for styling
+
+function NavBar() {
+  const [isOpen, setIsOpen] = useState(false);
+
+  const toggleMenu = () => {
+    setIsOpen(!isOpen);
+  };
+
+  return (
+    <nav className="navbar">
+      <h1 className="logo">My Project App</h1>
+      <button className="menu-toggle" onClick={toggleMenu}>
+        ☰
+      </button>
+      <ul className={`nav-links ${isOpen ? 'open' : ''}`}>
+        <li>
+          <NavLink to="/" exact activeClassName="active">
+            Home
+          </NavLink>
+        </li>
+        <li>
+          <NavLink to="/projects" activeClassName="active">
+            Projects
+          </NavLink>
+        </li>
+        <li>
+          <NavLink to="/resources" activeClassName="active">
+            Resources
+          </NavLink>
+        </li>
+      </ul>
+    </nav>
+  );
+}
+
+export default NavBar;
